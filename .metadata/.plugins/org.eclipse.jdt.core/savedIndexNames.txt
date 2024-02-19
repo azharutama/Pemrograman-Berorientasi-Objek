@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\perkuliahan\Pemrograman Berorientasi Objek\.metadata\.plugins\org.eclipse.jdt.core
+1535177651.index
+3893309488.index
+1865797976.index

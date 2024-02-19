@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;persegiPanjang.PenjumlahanTotal.java&apos; to &apos;TotalBilangan.java&apos;&#x0D;&#x0A;- Original project: &apos;PBO&apos;&#x0D;&#x0A;- Original element: &apos;persegiPanjang.PenjumlahanTotal.java&apos;&#x0D;&#x0A;- Renamed element: &apos;persegiPanjang.TotalBilangan.java&apos;" description="Rename compilation unit &apos;PenjumlahanTotal.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;persegiPanjang{PenjumlahanTotal.java" name="TotalBilangan.java" references="false" stamp="1707978943811" version="1.0"/>
+</session>
